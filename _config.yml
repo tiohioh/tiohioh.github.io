@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: あるみなのサイト
 description: description
+
+# multilang
+languages: ['ja', 'en', 'zh']
+default_lang: 'ja'
