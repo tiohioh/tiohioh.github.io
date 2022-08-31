@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
 title: あるみなのサイト
-description: description
+description: どこぞのだれかのポートフォリオ。パラメータによる振り分けができないので個人的なものを含むものはこちらには上げません。
 
 # multilang
 languages: ['ja', 'en', 'zh']
